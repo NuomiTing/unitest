@@ -1,0 +1,6 @@
+# 字典格式 注意缩紧和空格
+key: value
+key1 : value1
+key2:
+  key2.1: value2.1
+  key2.2: "123"
